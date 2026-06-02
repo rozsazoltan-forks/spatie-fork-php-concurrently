@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/fork.svg?style=flat-square)](https://packagist.org/packages/spatie/fork)
 [![Tests](https://github.com/spatie/fork/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/fork/actions/workflows/run-tests.yml)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/spatie/fork/php-cs-fixer.yml?label=code%20style)](https://github.com/spatie/fork/actions/workflows/php-cs-fixer.yml)
+[![GitHub Code Style Action Status](https://github.com/spatie/fork/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/spatie/fork/actions/workflows/php-cs-fixer.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/fork.svg?style=flat-square)](https://packagist.org/packages/spatie/fork)
 
 This package makes it easy to run PHP concurrently. Behind the scenes, concurrency is achieved by forking the main PHP process to one or more child tasks.
